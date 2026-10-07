@@ -22,7 +22,7 @@ lip_h       = 0.9;   // Hoehe der Rastnase ueber der Scheibe
 lip_clear   = 0.1;   // Luft zwischen Scheibe und Rastnase
 
 /* [Rohr] */
-tube_d      = 25;    // Rohrdurchmesser des Trolleys
+tube_d      = 40;    // Rohrdurchmesser des Trolleys
 pad_t       = 0;     // Dicke einer optionalen Gummi-Zwischenlage (z.B. 1)
 saddle_frac = 0.35;  // Wie tief der Sattel das Rohr umgreift (Anteil vom Durchmesser)
 
